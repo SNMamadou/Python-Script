@@ -1,1 +1,0 @@
-Quelques script en Python
